@@ -6,7 +6,7 @@ export default function EmbeddedPostExample() {
     <div 
       className="fb-like" 
       data-href="https://developers.facebook.com/docs/plugins/" 
-      data-width="" 
+      data-width="100" 
       data-layout="standard" 
       data-action="like" data-size="small" data-share="true">
     </div>
