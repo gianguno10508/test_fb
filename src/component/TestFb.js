@@ -1,4 +1,4 @@
-import { FacebookProvider, EmbeddedPost, Page,Feed, useFacebook, ShareButton, Comments, Like } from 'react-facebook';
+import { FacebookProvider, EmbeddedPost, Page,Feed, useFacebook, ShareButton, Comments, Like, LoginButton } from 'react-facebook';
 import MessengerCustomerChat from 'react-messenger-customer-chat';
 export default function EmbeddedPostExample() {
   function handleSuccess(response) {
