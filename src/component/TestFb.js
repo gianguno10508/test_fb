@@ -4,8 +4,8 @@ export default function EmbeddedPostExample() {
   return (
     //<MessengerCustomerChat pageId="107400511790455" appId="1505620756529166"/>
     <FacebookProvider appId="1505620756529166">
-        <Like href="https://www.facebook.com/permalink.php?story_fbid=pfbid02dCvSYZaFsi38kSJ5x3fybX8QjuhSNwSNc4vpdSNKeyNbPCZdRN6wTCpNYAmumGsHl&id=100026930804116" colorScheme="dark" showFaces share />
-        <Comments href="https://www.facebook.com/permalink.php?story_fbid=pfbid02dCvSYZaFsi38kSJ5x3fybX8QjuhSNwSNc4vpdSNKeyNbPCZdRN6wTCpNYAmumGsHl&id=100026930804116" />
+        <Like href="https://www.facebook.com/trollbongda/photos/a.194162990700164/5788581837924890" colorScheme="dark" showFaces share />
+        <Comments href="https://www.facebook.com/trollbongda/photos/a.194162990700164/5788581837924890" />
     </FacebookProvider>
   );
 }
