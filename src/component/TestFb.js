@@ -13,6 +13,9 @@ export default function EmbeddedPostExample() {
       </div>
       <div className="fb-comments" data-href="https://www.24h.com.vn/tin-tuc-trong-ngay/chinh-thuc-bao-so-5-hinh-thanh-tren-bien-dong-mien-trung-mua-nhu-trut-nuoc-c46a1405400.html/" data-width="" data-numposts="5"></div>
       <div className="fb-page" data-href="https://www.facebook.com/Pingg-Shop-107400511790455" data-tabs="" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Pingg-Shop-107400511790455" className="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Pingg-Shop-107400511790455">Pingg Shop</a></blockquote></div>
+      <div class="fb-comment-embed"
+        data-href="https://www.facebook.com/zuck/posts/10102735452532991?comment_id=1070233703036185"
+        data-width="500"></div>
     </>
   );
 }
