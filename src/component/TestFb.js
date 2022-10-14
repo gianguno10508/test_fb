@@ -9,7 +9,6 @@ export default function EmbeddedPostExample() {
       data-width="100" 
       data-layout="standard" 
       data-action="like" data-size="small" data-share="true">
-        <p>asdfsdfsdfsdfsdf</p>
     </div>
   );
 }
