@@ -12,10 +12,10 @@ export default function EmbeddedPostExample() {
     // </div>
           <div 
           class="fb-share-button" 
-          data-href="https://developers.facebook.com/docs/plugins/" 
+          data-href="https://www.24h.com.vn/tin-tuc-trong-ngay/chinh-thuc-bao-so-5-hinh-thanh-tren-bien-dong-mien-trung-mua-nhu-trut-nuoc-c46a1405400.html" 
           data-layout="button_count"
           data-action="like" data-size="small">
-          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">
+          <a target="_blank" href="https://www.24h.com.vn/tin-tuc-trong-ngay/chinh-thuc-bao-so-5-hinh-thanh-tren-bien-dong-mien-trung-mua-nhu-trut-nuoc-c46a1405400.html" class="fb-xfbml-parse-ignore">
           Chia sẻ</a>
           </div>
   );
