@@ -5,7 +5,7 @@ export default function EmbeddedPostExample() {
     //<MessengerCustomerChat pageId="107400511790455" appId="1505620756529166"/>
     <div
       className="fb-like" 
-      data-href="https://www.24h.com.vn/tin-tuc-trong-ngay/chinh-thuc-bao-so-5-hinh-thanh-tren-bien-dong-mien-trung-mua-nhu-trut-nuoc-c46a1405400.html" 
+      data-href="https://www.facebook.com/SongTuFan/photos/a.782257071834722/5728062103920836/" 
       data-width="100" 
       data-layout="standard" 
       data-action="like" data-size="small" data-share="true">
