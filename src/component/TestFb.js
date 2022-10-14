@@ -3,12 +3,13 @@ import MessengerCustomerChat from 'react-messenger-customer-chat';
 export default function EmbeddedPostExample() {
   return (
     //<MessengerCustomerChat pageId="107400511790455" appId="1505620756529166"/>
-    <div 
+    <div
       className="fb-like" 
       data-href="https://developers.facebook.com/docs/plugins/" 
       data-width="100" 
       data-layout="standard" 
       data-action="like" data-size="small" data-share="true">
+        <p>asdfsdfsdfsdfsdf</p>
     </div>
   );
 }
