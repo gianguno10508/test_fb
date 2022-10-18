@@ -24,6 +24,7 @@ export default function EmbeddedPostExample() {
         fields="name,email,picture"
         callback={responseFacebook}
         cssClass="my-facebook-button-class"
+        scope="public_profile,user_friends,user_actions.books"
         icon="fa-facebook"
       />
     </>
