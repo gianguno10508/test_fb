@@ -1,6 +1,7 @@
 import { FacebookProvider, EmbeddedPost, Page,Feed, useFacebook, ShareButton, Comments, Like, LoginButton } from 'react-facebook';
 import MessengerCustomerChat from 'react-messenger-customer-chat';
 import FacebookLogin from 'react-facebook-login';
+import { FacebookProvider, Feed } from 'react-facebook';
 const responseFacebook = (response) => {
   console.log(response);
 }
@@ -27,6 +28,13 @@ export default function EmbeddedPostExample() {
         //scope="public_profile,user_friends,user_actions.books"
         icon="fa-facebook"
       />
+        <FacebookProvider appId="1505620756529166">
+        <Feed link="https://www.facebook.com/Pingg-Shop-107400511790455">
+          {({ handleClick }) => (
+            <button type="button" onClick={handleClick}>Share on Feed</button>
+          )}
+        </Feed>
+      </FacebookProvider>    
     </>
   );
 }
