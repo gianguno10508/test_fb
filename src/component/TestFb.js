@@ -20,7 +20,7 @@ export default function EmbeddedPostExample() {
 
       <FacebookLogin
         appId="1505620756529166"
-        autoLoad={true}
+        //autoLoad={true}
         fields="name,email,picture"
         callback={responseFacebook}
         cssClass="my-facebook-button-class"
