@@ -5,7 +5,7 @@ import { Route, Routes } from 'react-router-dom';
 import Home from './component/body/Home';
 import Detail from './component/body/Detail';
 import TestFb from './component/TestFb';
-import Policy from './component/body/policy';
+import Policy from './component/body/Policy';
 
 function App() {
   return (
